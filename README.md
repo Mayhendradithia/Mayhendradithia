@@ -5,7 +5,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -21,19 +21,19 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayhendradithia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayhendradithia&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <a href="https://open.spotify.com/user/313fotv2mqqlqnrs2eofbxrnsmsu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313fotv2mqqlqnrs2eofbxrnsmsu&count=4&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/313fotv2mqqlqnrs2eofbxrnsmsu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313fotv2mqqlqnrs2eofbxrnsmsu&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayhendradithia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayhendradithia&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###

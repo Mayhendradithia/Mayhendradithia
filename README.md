@@ -1,4 +1,7 @@
-<h2 align="left">Tools</h2>
+
+
+
+<h4 align="left">Tools</h4>
 
 ###
 
@@ -18,7 +21,7 @@
 
 ###
 
-<h2 align="left">Connection</h2>
+<h4 align="left">Connection</h4>
 
 ###
 
@@ -30,13 +33,14 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="left">
+  <a href="https://open.spotify.com/user/313fotv2mqqlqnrs2eofbxrnsmsu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313fotv2mqqlqnrs2eofbxrnsmsu&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mayhendradithia/Mayhendradithia/output/snake.svg" alt="Snake animation" />
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313fotv2mqqlqnrs2eofbxrnsmsu&unique={true|1|on|yes})
+<h4 align="left">Mencari Arti Kehidupan👀</h4>
 
 ###

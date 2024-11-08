@@ -1,4 +1,5 @@
-<h1 align="center"><b>Yoo!! , I'm Mayhendra Adithia</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img align="center" src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=1000&color=9BEC00&vCenter=true&random=false&width=200&height=25&lines=Yoo!!;I'm+MayhendraAdithia)](https://git.io/typing-svg)
 <!-- runnning text -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Mencari+Arti+Kehidupan&hearts;++;+Designer,;Web+Developer,;"></a>
